@@ -10,6 +10,8 @@ Thanks for checking out this front-end coding challenge.
 
 Its going to be a collaborative fun project
 
+It seems to be interesting
+
 **To do this challenge, you need a basic understanding of HTML, CSS and JavaScript.**
 
 ## The challenge
